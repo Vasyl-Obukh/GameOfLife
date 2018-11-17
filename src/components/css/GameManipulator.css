@@ -1,0 +1,19 @@
+.manipulator {
+  padding-top: 15px;
+  text-align: center;
+}
+
+.menu--btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.menu--btn i.fa {
+  font-size: 40px;
+  color: #00ff00;
+}
+
+.menu--btn:focus {
+  outline: none;
+}

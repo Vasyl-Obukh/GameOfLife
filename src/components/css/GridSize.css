@@ -1,0 +1,20 @@
+.menu--gridSize {
+  display: inline-block;
+  vertical-align: top;
+  margin: 3px 10px 0 10px;
+}
+
+.menu--gridSize input {
+  width: 70px;
+  padding: 2px 10px;
+  margin-right: 5px;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+}
+
+.gridSize--submit {
+  color: #00ff00;
+  border: 3px solid #00ff00;
+  border-radius: 10px;
+}

@@ -1,0 +1,29 @@
+.row--cell {
+  display: inline-block;
+  margin: 0;
+  border: 1px solid white;
+}
+
+.row--cell:first-child {
+  border-left: 2px solid white;
+}
+
+.row--cell:last-child {
+  border-right: 2px solid white;
+}
+
+.field--row:first-child .row--cell {
+  border-top: 2px solid white;
+}
+
+.field--row:last-child .row--cell {
+  border-bottom: 2px solid white;
+}
+
+.row--cell_alive {
+  background-color: #00ff00;
+}
+
+.row--cell_dead {
+  background-color: black;
+}

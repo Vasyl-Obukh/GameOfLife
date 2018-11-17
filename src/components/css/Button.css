@@ -1,0 +1,18 @@
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+button i.fa {
+  font-size: 25px;
+  color: #00ff00;
+}
+
+.container button:focus {
+  outline: none;
+}
+
+.submit {
+
+}
