@@ -1,0 +1,2 @@
+# GameOfLife
+Simple life simulator
